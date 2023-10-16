@@ -56,4 +56,4 @@ There are three ways to install the pixel art converter:
 The Pixel Magic Generator  have a link in the WLED front-end, therefore head over to the web page: `http://[device_ip_address]/pxmagic.htm` (default DHCP IP-address [link](http://4.3.2.1/pxmagic.htm)).
 
 On the web page:
-Follow the instatusction listed on this site https://user-images.githubusercontent.com/47322034/242754481-20ad60d1-3b01-42b6-9937-4dda3862a3a4.mp4
+Follow the instruction listed on this site https://user-images.githubusercontent.com/47322034/242754481-20ad60d1-3b01-42b6-9937-4dda3862a3a4.mp4
